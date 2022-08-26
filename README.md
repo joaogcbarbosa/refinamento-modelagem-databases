@@ -1,8 +1,8 @@
 # dio-desafio-refinando-database
 
-<h1>Narrativa do modelo de E-COMMERCE:</h1>
+<h2>Narrativa do modelo de E-COMMERCE:</h2>
 
-<h2>
+<h3>
 Escopo: Venda de produtos
 
 Produto:
@@ -19,11 +19,11 @@ Pedido:
 
 1. Os pedidos são criados por clientes e possuem informações de compra, endereço e status da entrega;
 2. Um produto ou mais compoem o pedido;
-</h2>
+</h3>
 
-<h1>Narrativa do modelo de Oficina:</h1>
+<h2>Narrativa do modelo de Oficina:</h2>
 
-<h2>
+<h3>
 1) Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas;
 
 2. Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega;
@@ -41,4 +41,4 @@ Pedido:
 8. Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
 
 9. Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
-</h2>
+</h3>
