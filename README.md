@@ -3,28 +3,29 @@
 <h2>Narrativa do modelo de E-COMMERCE:</h2>
 
 <h3>
-Escopo: Venda de produtos
 
-Produto:
+<u>Produto</u>:
 
 1. Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vededores distintos (terceiros);
 2. Cada produto possui um fornecedor;
 3. Um ou mais produtos podem compor um pedido.
 
-Cliente:
+<u>Cliente</u>:
 
-1. Pode se cadastrar no site com seu CPF ou CNPJ;
+1. Pode se cadastrar no site com seu CPF ou CNPJ.
 
-Pedido:
+<u>Pedido</u>:
 
 1. Os pedidos são criados por clientes e possuem informações de compra, endereço e status da entrega;
-2. Um produto ou mais compoem o pedido;
+2. Um produto ou mais compõem o pedido.
+
 </h3>
 
 <h2>Narrativa do modelo de Oficina:</h2>
 
 <h3>
-1) Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas;
+
+1. Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas;
 
 2. Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega;
 
@@ -41,4 +42,5 @@ Pedido:
 8. Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
 
 9. Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
+
 </h3>
