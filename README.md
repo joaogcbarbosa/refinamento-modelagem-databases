@@ -1,5 +1,3 @@
-# refinamento-modelagem-databases
-
 <h3>Narrativa do modelo de E-COMMERCE:</h3>
 <ul>
   <li>Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros);</li>
